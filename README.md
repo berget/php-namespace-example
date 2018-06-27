@@ -1,1 +1,1 @@
-php-namespace-example
+## 紀錄php的namespace 的使用方式 ##
